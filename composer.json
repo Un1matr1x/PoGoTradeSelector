@@ -1,4 +1,6 @@
 {
+    "name": "un1matr1x/PoGoTradeSelector",
+    "description": "get some easy to use search-string for PoGo",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "dev",
