@@ -1,6 +1,8 @@
 {
+    "name": "un1matr1x/pogotradeselector",
+    "description": "select the mon you want, get the searchstring you need",
     "type": "project",
-    "license": "proprietary",
+    "license": "mit",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
