@@ -144,6 +144,9 @@
     "phpstan/phpstan-symfony": {
         "version": "0.12.20"
     },
+    "psalm/plugin-symfony": {
+        "version": "v2.2.1"
+    },
     "psr/cache": {
         "version": "2.0.0"
     },
