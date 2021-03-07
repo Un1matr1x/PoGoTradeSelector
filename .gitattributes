@@ -8,5 +8,6 @@ SECURITY.md export-ignore
 composer.lock export-ignore
 package-lock.json export-ignore
 package.json export-ignore
+psalm.xml export-ignore
 sonar-project.properties export-ignore
 symfony.lock export-ignore
