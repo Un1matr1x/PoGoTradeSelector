@@ -3,6 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>{% block title %}Get my lucky Mon-List{% endblock %}</title>
+        <link rel="icon" type="image/png" href="{{asset('img/fav/')}}{{ "%02d"|format(random(1, 26)) }}.png">
         {# Run `composer require symfony/webpack-encore-bundle`
            and uncomment the following Encore helpers to start using Symfony UX #}
         {% block stylesheets %}
