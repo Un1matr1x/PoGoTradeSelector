@@ -2900,16 +2900,16 @@
         },
         {
             "name": "symfony/doctrine-bridge",
-            "version": "v5.2.4",
+            "version": "v5.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/doctrine-bridge.git",
-                "reference": "b9fc1a1e35c732e9ad48ba36dbb1a923a0c95dc2"
+                "reference": "9e2c53f3e8f8a6ccecd80de5c2c8b71beeca7fc8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/doctrine-bridge/zipball/b9fc1a1e35c732e9ad48ba36dbb1a923a0c95dc2",
-                "reference": "b9fc1a1e35c732e9ad48ba36dbb1a923a0c95dc2",
+                "url": "https://api.github.com/repos/symfony/doctrine-bridge/zipball/9e2c53f3e8f8a6ccecd80de5c2c8b71beeca7fc8",
+                "reference": "9e2c53f3e8f8a6ccecd80de5c2c8b71beeca7fc8",
                 "shasum": ""
             },
             "require": {
@@ -2994,7 +2994,7 @@
             "description": "Provides integration for Doctrine with various Symfony components",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/doctrine-bridge/tree/v5.2.4"
+                "source": "https://github.com/symfony/doctrine-bridge/tree/v5.2.5"
             },
             "funding": [
                 {
@@ -3010,7 +3010,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-02-18T22:42:36+00:00"
+            "time": "2021-03-06T13:35:24+00:00"
         },
         {
             "name": "symfony/dotenv",
@@ -3673,16 +3673,16 @@
         },
         {
             "name": "symfony/framework-bundle",
-            "version": "v5.2.4",
+            "version": "v5.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/framework-bundle.git",
-                "reference": "6158eb79d62946c24d3f6959bf9b2073555e200e"
+                "reference": "4dae531503072a57cf26f7f4beb4c3ef8a061f8f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/framework-bundle/zipball/6158eb79d62946c24d3f6959bf9b2073555e200e",
-                "reference": "6158eb79d62946c24d3f6959bf9b2073555e200e",
+                "url": "https://api.github.com/repos/symfony/framework-bundle/zipball/4dae531503072a57cf26f7f4beb4c3ef8a061f8f",
+                "reference": "4dae531503072a57cf26f7f4beb4c3ef8a061f8f",
                 "shasum": ""
             },
             "require": {
@@ -3709,7 +3709,7 @@
                 "phpunit/phpunit": "<5.4.3",
                 "symfony/asset": "<5.1",
                 "symfony/browser-kit": "<4.4",
-                "symfony/console": "<5.2",
+                "symfony/console": "<5.2.5",
                 "symfony/dom-crawler": "<4.4",
                 "symfony/dotenv": "<5.1",
                 "symfony/form": "<5.2",
@@ -3802,7 +3802,7 @@
             "description": "Provides a tight integration between Symfony components and the Symfony full-stack framework",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/framework-bundle/tree/v5.2.4"
+                "source": "https://github.com/symfony/framework-bundle/tree/v5.2.5"
             },
             "funding": [
                 {
@@ -3818,7 +3818,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-02-23T15:58:22+00:00"
+            "time": "2021-03-09T08:47:49+00:00"
         },
         {
             "name": "symfony/http-client",
@@ -4424,16 +4424,16 @@
         },
         {
             "name": "symfony/monolog-bridge",
-            "version": "v5.2.4",
+            "version": "v5.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/monolog-bridge.git",
-                "reference": "aca99c4135001224b917eed17cc846e8c0ba981c"
+                "reference": "8a330ab86c4bdf3983b26abf64bf85574edf0d52"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/monolog-bridge/zipball/aca99c4135001224b917eed17cc846e8c0ba981c",
-                "reference": "aca99c4135001224b917eed17cc846e8c0ba981c",
+                "url": "https://api.github.com/repos/symfony/monolog-bridge/zipball/8a330ab86c4bdf3983b26abf64bf85574edf0d52",
+                "reference": "8a330ab86c4bdf3983b26abf64bf85574edf0d52",
                 "shasum": ""
             },
             "require": {
@@ -4486,7 +4486,7 @@
             "description": "Provides integration for Monolog with various Symfony components",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/monolog-bridge/tree/v5.2.4"
+                "source": "https://github.com/symfony/monolog-bridge/tree/v5.2.5"
             },
             "funding": [
                 {
@@ -4502,7 +4502,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-01-27T11:24:50+00:00"
+            "time": "2021-03-06T07:59:01+00:00"
         },
         {
             "name": "symfony/monolog-bundle",
@@ -6617,16 +6617,16 @@
         },
         {
             "name": "symfony/twig-bridge",
-            "version": "v5.2.4",
+            "version": "v5.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/twig-bridge.git",
-                "reference": "4fa4380e5413eb5db24abdef4dfd9fe567b11605"
+                "reference": "f3b6854071486b20d27ba5f3148cf9fba73f670f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/twig-bridge/zipball/4fa4380e5413eb5db24abdef4dfd9fe567b11605",
-                "reference": "4fa4380e5413eb5db24abdef4dfd9fe567b11605",
+                "url": "https://api.github.com/repos/symfony/twig-bridge/zipball/f3b6854071486b20d27ba5f3148cf9fba73f670f",
+                "reference": "f3b6854071486b20d27ba5f3148cf9fba73f670f",
                 "shasum": ""
             },
             "require": {
@@ -6646,7 +6646,7 @@
                 "symfony/workflow": "<5.2"
             },
             "require-dev": {
-                "egulias/email-validator": "^2.1.10",
+                "egulias/email-validator": "^2.1.10|^3",
                 "phpdocumentor/reflection-docblock": "^3.0|^4.0|^5.0",
                 "symfony/asset": "^4.4|^5.0",
                 "symfony/console": "^4.4|^5.0",
@@ -6717,7 +6717,7 @@
             "description": "Provides integration for Twig with various Symfony components",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/twig-bridge/tree/v5.2.4"
+                "source": "https://github.com/symfony/twig-bridge/tree/v5.2.5"
             },
             "funding": [
                 {
@@ -6733,7 +6733,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-02-25T13:42:30+00:00"
+            "time": "2021-03-07T16:08:20+00:00"
         },
         {
             "name": "symfony/twig-bundle",
