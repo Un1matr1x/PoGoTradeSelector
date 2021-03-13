@@ -4,11 +4,26 @@
     <div class="row">
     {% for i in 1..898 %}
             <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-2 col-2 text-center">
-                <input type="checkbox" class="btn-check" id="pogo_{{ "%03d"|format(i) }}" autocomplete="off">
+                <input type="checkbox" class="btn-check" id="pogo_{{ "%03d"|format(i) }}" autocomplete="off" onchange="manipulateSearchString({{i}},this.checked)">
                 <label class="btn btn-outline-secondary" for="pogo_{{ "%03d"|format(i) }}">
                     <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/{{ "%03d"|format(i) }}.png" class="img-thumbnail border-0">
                 </label>
             </div>
     {% endfor %}
+        <script>
+            function manipulateSearchString(id,val) {
+                var search = document.getElementById("search_string");
+                if (Number.isInteger(id)){
+                    if (val) {
+                        document.getElementById("search_string").value = search.value + "," + id;
+                    } else {
+                        document.getElementById("search_string").value = search.value.replace("," + id, "");
+                    }
+                } else {
+                    console.log("false");
+                    return false;
+                }
+            }
+        </script>
     </div>
 {% endblock %}
