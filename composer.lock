@@ -2495,12 +2495,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/cache-contracts.git",
-                "reference": "648977af9989c325eec96ba2671a20d5ff58fbea"
+                "reference": "c0446463729b89dd4fa62e9aeecc80287323615d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/cache-contracts/zipball/648977af9989c325eec96ba2671a20d5ff58fbea",
-                "reference": "648977af9989c325eec96ba2671a20d5ff58fbea",
+                "url": "https://api.github.com/repos/symfony/cache-contracts/zipball/c0446463729b89dd4fa62e9aeecc80287323615d",
+                "reference": "c0446463729b89dd4fa62e9aeecc80287323615d",
                 "shasum": ""
             },
             "require": {
@@ -2567,7 +2567,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-02-25T16:38:04+00:00"
+            "time": "2021-03-23T23:28:01+00:00"
         },
         {
             "name": "symfony/config",
@@ -8249,16 +8249,16 @@
         },
         {
             "name": "psalm/plugin-symfony",
-            "version": "v2.2.1",
+            "version": "v2.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/psalm/psalm-plugin-symfony.git",
-                "reference": "69bc80d00d9cb484c0f3795775bcbbd70a853f2d"
+                "reference": "3a35eb7e8a494a565c6bc015eca0b3cbb5e10701"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/psalm/psalm-plugin-symfony/zipball/69bc80d00d9cb484c0f3795775bcbbd70a853f2d",
-                "reference": "69bc80d00d9cb484c0f3795775bcbbd70a853f2d",
+                "url": "https://api.github.com/repos/psalm/psalm-plugin-symfony/zipball/3a35eb7e8a494a565c6bc015eca0b3cbb5e10701",
+                "reference": "3a35eb7e8a494a565c6bc015eca0b3cbb5e10701",
                 "shasum": ""
             },
             "require": {
@@ -8307,9 +8307,9 @@
             "description": "Psalm Plugin for Symfony",
             "support": {
                 "issues": "https://github.com/psalm/psalm-plugin-symfony/issues",
-                "source": "https://github.com/psalm/psalm-plugin-symfony/tree/v2.2.1"
+                "source": "https://github.com/psalm/psalm-plugin-symfony/tree/v2.2.2"
             },
-            "time": "2021-03-03T06:31:41+00:00"
+            "time": "2021-03-23T21:07:33+00:00"
         },
         {
             "name": "sebastian/diff",
