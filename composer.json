@@ -99,6 +99,9 @@
         "symfony": {
             "allow-contrib": false,
             "require": "5.2.*"
-        }
+        },
+        "unused": [
+          "php"
+        ]
     }
 }
