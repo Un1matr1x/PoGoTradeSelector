@@ -4260,16 +4260,16 @@
         },
         {
             "name": "symfony/mailer",
-            "version": "v5.2.5",
+            "version": "v5.2.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/mailer.git",
-                "reference": "9cc469d0ca8fe0e7d46089bdb06793259817f2c9"
+                "reference": "04475b8368b6c7a559581ee8a0650c919ec79274"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/mailer/zipball/9cc469d0ca8fe0e7d46089bdb06793259817f2c9",
-                "reference": "9cc469d0ca8fe0e7d46089bdb06793259817f2c9",
+                "url": "https://api.github.com/repos/symfony/mailer/zipball/04475b8368b6c7a559581ee8a0650c919ec79274",
+                "reference": "04475b8368b6c7a559581ee8a0650c919ec79274",
                 "shasum": ""
             },
             "require": {
@@ -4277,7 +4277,7 @@
                 "php": ">=7.2.5",
                 "psr/log": "~1.0",
                 "symfony/event-dispatcher": "^4.4|^5.0",
-                "symfony/mime": "^5.2",
+                "symfony/mime": "^5.2.6",
                 "symfony/polyfill-php80": "^1.15",
                 "symfony/service-contracts": "^1.1|^2"
             },
@@ -4321,7 +4321,7 @@
             "description": "Helps sending emails",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/mailer/tree/v5.2.5"
+                "source": "https://github.com/symfony/mailer/tree/v5.2.6"
             },
             "funding": [
                 {
@@ -4337,7 +4337,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-03-07T16:08:20+00:00"
+            "time": "2021-03-12T13:18:39+00:00"
         },
         {
             "name": "symfony/mime",
