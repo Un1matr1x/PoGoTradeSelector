@@ -3268,16 +3268,16 @@
         },
         {
             "name": "symfony/event-dispatcher-contracts",
-            "version": "v2.2.0",
+            "version": "v2.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher-contracts.git",
-                "reference": "0ba7d54483095a198fa51781bc608d17e84dffa2"
+                "reference": "69fee1ad2332a7cbab3aca13591953da9cdb7a11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/event-dispatcher-contracts/zipball/0ba7d54483095a198fa51781bc608d17e84dffa2",
-                "reference": "0ba7d54483095a198fa51781bc608d17e84dffa2",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher-contracts/zipball/69fee1ad2332a7cbab3aca13591953da9cdb7a11",
+                "reference": "69fee1ad2332a7cbab3aca13591953da9cdb7a11",
                 "shasum": ""
             },
             "require": {
@@ -3290,7 +3290,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.2-dev"
+                    "dev-main": "2.4-dev"
                 },
                 "thanks": {
                     "name": "symfony/contracts",
@@ -3327,7 +3327,7 @@
                 "standards"
             ],
             "support": {
-                "source": "https://github.com/symfony/event-dispatcher-contracts/tree/v2.2.0"
+                "source": "https://github.com/symfony/event-dispatcher-contracts/tree/v2.4.0"
             },
             "funding": [
                 {
@@ -3343,7 +3343,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-09-07T11:33:47+00:00"
+            "time": "2021-03-23T23:28:01+00:00"
         },
         {
             "name": "symfony/expression-language",
@@ -3602,16 +3602,16 @@
         },
         {
             "name": "symfony/form",
-            "version": "v5.2.6",
+            "version": "v5.2.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/form.git",
-                "reference": "40fbaed8d4238e37fdd1fecce8e0678a3eb0e48b"
+                "reference": "037ccc804cca3655f2b493e5bcc062b4ba4208ed"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/form/zipball/40fbaed8d4238e37fdd1fecce8e0678a3eb0e48b",
-                "reference": "40fbaed8d4238e37fdd1fecce8e0678a3eb0e48b",
+                "url": "https://api.github.com/repos/symfony/form/zipball/037ccc804cca3655f2b493e5bcc062b4ba4208ed",
+                "reference": "037ccc804cca3655f2b493e5bcc062b4ba4208ed",
                 "shasum": ""
             },
             "require": {
@@ -3683,7 +3683,7 @@
             "description": "Allows to easily create, process and reuse HTML forms",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/form/tree/v5.2.6"
+                "source": "https://github.com/symfony/form/tree/v5.2.7"
             },
             "funding": [
                 {
@@ -3699,7 +3699,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-03-28T09:59:03+00:00"
+            "time": "2021-04-24T14:39:13+00:00"
         },
         {
             "name": "symfony/framework-bundle",
@@ -5493,16 +5493,16 @@
         },
         {
             "name": "symfony/property-info",
-            "version": "v5.2.4",
+            "version": "v5.2.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/property-info.git",
-                "reference": "7185bbc74e6f49c3f1b5936b4d9e4ca133921189"
+                "reference": "f5850c8d4d987fd1990e2cbdf29f48c663c433e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/property-info/zipball/7185bbc74e6f49c3f1b5936b4d9e4ca133921189",
-                "reference": "7185bbc74e6f49c3f1b5936b4d9e4ca133921189",
+                "url": "https://api.github.com/repos/symfony/property-info/zipball/f5850c8d4d987fd1990e2cbdf29f48c663c433e7",
+                "reference": "f5850c8d4d987fd1990e2cbdf29f48c663c433e7",
                 "shasum": ""
             },
             "require": {
@@ -5563,7 +5563,7 @@
                 "validator"
             ],
             "support": {
-                "source": "https://github.com/symfony/property-info/tree/v5.2.4"
+                "source": "https://github.com/symfony/property-info/tree/v5.2.7"
             },
             "funding": [
                 {
@@ -5579,7 +5579,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-02-17T15:24:54+00:00"
+            "time": "2021-04-16T17:25:34+00:00"
         },
         {
             "name": "symfony/routing",
