@@ -4668,21 +4668,21 @@
         },
         {
             "name": "symfony/notifier",
-            "version": "v5.3.3",
+            "version": "v5.3.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/notifier.git",
-                "reference": "5306fd5b2c27f8417ff3b9c5cade8e45683768e6"
+                "reference": "9cf5ae2ae6838f8866f63826721671e7066275a4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/notifier/zipball/5306fd5b2c27f8417ff3b9c5cade8e45683768e6",
-                "reference": "5306fd5b2c27f8417ff3b9c5cade8e45683768e6",
+                "url": "https://api.github.com/repos/symfony/notifier/zipball/9cf5ae2ae6838f8866f63826721671e7066275a4",
+                "reference": "9cf5ae2ae6838f8866f63826721671e7066275a4",
                 "shasum": ""
             },
             "require": {
                 "php": ">=7.2.5",
-                "psr/log": "~1.0",
+                "psr/log": "^1|^2|^3",
                 "symfony/polyfill-php80": "^1.15"
             },
             "conflict": {
@@ -4710,7 +4710,7 @@
             "require-dev": {
                 "symfony/event-dispatcher-contracts": "^2",
                 "symfony/http-client-contracts": "^2",
-                "symfony/messenger": "^4.4 || ^5.0"
+                "symfony/messenger": "^4.4|^5.0"
             },
             "type": "library",
             "autoload": {
@@ -4742,7 +4742,7 @@
                 "notifier"
             ],
             "support": {
-                "source": "https://github.com/symfony/notifier/tree/v5.3.3"
+                "source": "https://github.com/symfony/notifier/tree/v5.3.11"
             },
             "funding": [
                 {
@@ -4758,7 +4758,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-06-21T21:40:30+00:00"
+            "time": "2021-11-17T10:45:54+00:00"
         },
         {
             "name": "symfony/options-resolver",
