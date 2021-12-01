@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d08851154f60914c5c77cdeb80e4a7f7",
+    "content-hash": "71233fffb1884c9e069d82c7db4151fa",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -9778,32 +9778,35 @@
         },
         {
             "name": "weirdan/doctrine-psalm-plugin",
-            "version": "1.0.0",
+            "version": "v2.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/weirdan/doctrine-psalm-plugin.git",
-                "reference": "281dff0eabbba1459186ea8a6ab4041c9bdf4479"
+                "url": "https://github.com/psalm/psalm-plugin-doctrine.git",
+                "reference": "13d2b590e55d9a541c946dc636109de206d6d7fe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/weirdan/doctrine-psalm-plugin/zipball/281dff0eabbba1459186ea8a6ab4041c9bdf4479",
-                "reference": "281dff0eabbba1459186ea8a6ab4041c9bdf4479",
+                "url": "https://api.github.com/repos/psalm/psalm-plugin-doctrine/zipball/13d2b590e55d9a541c946dc636109de206d6d7fe",
+                "reference": "13d2b590e55d9a541c946dc636109de206d6d7fe",
                 "shasum": ""
             },
             "require": {
                 "composer/semver": "^1.4 || ^2.0 || ^3.0",
-                "doctrine/collections": "^1.0",
-                "doctrine/orm": "^2.6",
-                "php": "^7.2|^8",
-                "vimeo/psalm": "^4.3.2 || dev-master"
+                "php": "^7.2 || ^8",
+                "vimeo/psalm": "^4.9 || dev-master"
             },
             "conflict": {
-                "slevomat/coding-standard": "6.1.1"
+                "doctrine/collections": "<1.6",
+                "doctrine/orm": "<2.6",
+                "doctrine/persistence": "<2.0"
             },
             "require-dev": {
                 "codeception/codeception": "^4.0",
-                "doctrine/coding-standard": "^8.1",
+                "doctrine/coding-standard": "^9.0",
+                "doctrine/collections": "^1.0",
                 "doctrine/doctrine-bundle": "^1.11 || ^2.0",
+                "doctrine/orm": "^2.6",
+                "doctrine/persistence": "^2.0",
                 "phly/keep-a-changelog": "^2.1",
                 "squizlabs/php_codesniffer": "^3.3",
                 "weirdan/codeception-psalm-module": "^0.13.1"
@@ -9846,10 +9849,10 @@
                 "static-analysis"
             ],
             "support": {
-                "issues": "https://github.com/weirdan/doctrine-psalm-plugin/issues",
-                "source": "https://github.com/weirdan/doctrine-psalm-plugin/tree/1.0.0"
+                "issues": "https://github.com/psalm/psalm-plugin-doctrine/issues",
+                "source": "https://github.com/psalm/psalm-plugin-doctrine/tree/v2.0.1"
             },
-            "time": "2021-01-03T20:41:17+00:00"
+            "time": "2021-11-03T10:20:57+00:00"
         }
     ],
     "aliases": [],
