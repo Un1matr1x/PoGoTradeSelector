@@ -7746,16 +7746,16 @@
         },
         {
             "name": "composer-unused/symbol-parser",
-            "version": "0.1.7",
+            "version": "0.1.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer-unused/symbol-parser.git",
-                "reference": "a3b045d1090cb0bac2680c85f0e53bbb2a597b69"
+                "reference": "605be0cb0049341c8f35b94a11f1cba68c8f930b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer-unused/symbol-parser/zipball/a3b045d1090cb0bac2680c85f0e53bbb2a597b69",
-                "reference": "a3b045d1090cb0bac2680c85f0e53bbb2a597b69",
+                "url": "https://api.github.com/repos/composer-unused/symbol-parser/zipball/605be0cb0049341c8f35b94a11f1cba68c8f930b",
+                "reference": "605be0cb0049341c8f35b94a11f1cba68c8f930b",
                 "shasum": ""
             },
             "require": {
@@ -7769,7 +7769,7 @@
             "require-dev": {
                 "ext-ds": "*",
                 "phpstan/phpstan": "^1.4",
-                "phpunit/phpunit": "^9.5.13",
+                "phpunit/phpunit": "^9.5.18",
                 "roave/security-advisories": "dev-master",
                 "squizlabs/php_codesniffer": "^3.6.2",
                 "symfony/serializer": "^5.4"
@@ -7811,7 +7811,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2022-02-15T20:12:38+00:00"
+            "time": "2022-03-09T17:46:04+00:00"
         },
         {
             "name": "composer/pcre",
@@ -8171,21 +8171,21 @@
         },
         {
             "name": "icanhazstring/composer-unused",
-            "version": "0.8.1",
+            "version": "0.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer-unused/composer-unused.git",
-                "reference": "4e49276c9682ea32b9c4cf6186185c7c69b7ffd6"
+                "reference": "5fff0a9943973a29b6babd6aad2a342230f09200"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer-unused/composer-unused/zipball/4e49276c9682ea32b9c4cf6186185c7c69b7ffd6",
-                "reference": "4e49276c9682ea32b9c4cf6186185c7c69b7ffd6",
+                "url": "https://api.github.com/repos/composer-unused/composer-unused/zipball/5fff0a9943973a29b6babd6aad2a342230f09200",
+                "reference": "5fff0a9943973a29b6babd6aad2a342230f09200",
                 "shasum": ""
             },
             "require": {
                 "composer-unused/contracts": "^0.2",
-                "composer-unused/symbol-parser": "^0.1.7",
+                "composer-unused/symbol-parser": "^0.1.8",
                 "nikic/php-parser": "^4.13",
                 "ondram/ci-detector": "^4.1",
                 "php": "^7.4 || ^8.0",
@@ -8205,7 +8205,7 @@
                 "jangregor/phpstan-prophecy": "^0.8.1",
                 "phpspec/prophecy-phpunit": "^2.0.1",
                 "phpstan/phpstan": "^0.12.99",
-                "phpunit/phpunit": "^9.5.13",
+                "phpunit/phpunit": "^9.5.19",
                 "roave/security-advisories": "dev-master",
                 "squizlabs/php_codesniffer": "^3.6"
             },
@@ -8249,7 +8249,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2022-02-15T20:22:44+00:00"
+            "time": "2022-03-21T19:58:22+00:00"
         },
         {
             "name": "netresearch/jsonmapper",
