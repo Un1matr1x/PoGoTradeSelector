@@ -6688,16 +6688,16 @@
         },
         {
             "name": "symfony/twig-bridge",
-            "version": "v5.4.11",
+            "version": "v5.4.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/twig-bridge.git",
-                "reference": "63b8a50d48c9fe3d04e77307d4f1771dd848baa8"
+                "reference": "94c3b38514c953e3e84719c96d4e578a01ca1819"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/twig-bridge/zipball/63b8a50d48c9fe3d04e77307d4f1771dd848baa8",
-                "reference": "63b8a50d48c9fe3d04e77307d4f1771dd848baa8",
+                "url": "https://api.github.com/repos/symfony/twig-bridge/zipball/94c3b38514c953e3e84719c96d4e578a01ca1819",
+                "reference": "94c3b38514c953e3e84719c96d4e578a01ca1819",
                 "shasum": ""
             },
             "require": {
@@ -6789,7 +6789,7 @@
             "description": "Provides integration for Twig with various Symfony components",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/twig-bridge/tree/v5.4.11"
+                "source": "https://github.com/symfony/twig-bridge/tree/v5.4.12"
             },
             "funding": [
                 {
@@ -6805,7 +6805,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-07-20T13:00:38+00:00"
+            "time": "2022-08-03T13:09:21+00:00"
         },
         {
             "name": "symfony/twig-bundle",
@@ -9284,16 +9284,16 @@
         },
         {
             "name": "symfony/web-profiler-bundle",
-            "version": "v5.4.10",
+            "version": "v5.4.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/web-profiler-bundle.git",
-                "reference": "f61c99d8dbd864b11935851b598f784bcff36fc7"
+                "reference": "6fefe0a7761a35b33c616e199c19f0c0d069e282"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/web-profiler-bundle/zipball/f61c99d8dbd864b11935851b598f784bcff36fc7",
-                "reference": "f61c99d8dbd864b11935851b598f784bcff36fc7",
+                "url": "https://api.github.com/repos/symfony/web-profiler-bundle/zipball/6fefe0a7761a35b33c616e199c19f0c0d069e282",
+                "reference": "6fefe0a7761a35b33c616e199c19f0c0d069e282",
                 "shasum": ""
             },
             "require": {
@@ -9344,7 +9344,7 @@
             "description": "Provides a development tool that gives detailed information about the execution of any request",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/web-profiler-bundle/tree/v5.4.10"
+                "source": "https://github.com/symfony/web-profiler-bundle/tree/v5.4.13"
             },
             "funding": [
                 {
@@ -9360,7 +9360,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-06-06T19:10:58+00:00"
+            "time": "2022-08-28T23:24:00+00:00"
         },
         {
             "name": "vimeo/psalm",
