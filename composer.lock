@@ -2590,16 +2590,16 @@
         },
         {
             "name": "symfony/console",
-            "version": "v5.4.15",
+            "version": "v5.4.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "ea59bb0edfaf9f28d18d8791410ee0355f317669"
+                "reference": "8e9b9c8dfb33af6057c94e1b44846bee700dc5ef"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/ea59bb0edfaf9f28d18d8791410ee0355f317669",
-                "reference": "ea59bb0edfaf9f28d18d8791410ee0355f317669",
+                "url": "https://api.github.com/repos/symfony/console/zipball/8e9b9c8dfb33af6057c94e1b44846bee700dc5ef",
+                "reference": "8e9b9c8dfb33af6057c94e1b44846bee700dc5ef",
                 "shasum": ""
             },
             "require": {
@@ -2669,7 +2669,7 @@
                 "terminal"
             ],
             "support": {
-                "source": "https://github.com/symfony/console/tree/v5.4.15"
+                "source": "https://github.com/symfony/console/tree/v5.4.16"
             },
             "funding": [
                 {
@@ -2685,7 +2685,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-10-26T21:41:52+00:00"
+            "time": "2022-11-25T14:09:27+00:00"
         },
         {
             "name": "symfony/dependency-injection",
@@ -7839,16 +7839,16 @@
         },
         {
             "name": "composer/pcre",
-            "version": "3.0.2",
+            "version": "3.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/pcre.git",
-                "reference": "4482b6409ca6bfc2af043a5711cd21ac3e7a8dfb"
+                "reference": "4bff79ddd77851fe3cdd11616ed3f92841ba5bd2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/pcre/zipball/4482b6409ca6bfc2af043a5711cd21ac3e7a8dfb",
-                "reference": "4482b6409ca6bfc2af043a5711cd21ac3e7a8dfb",
+                "url": "https://api.github.com/repos/composer/pcre/zipball/4bff79ddd77851fe3cdd11616ed3f92841ba5bd2",
+                "reference": "4bff79ddd77851fe3cdd11616ed3f92841ba5bd2",
                 "shasum": ""
             },
             "require": {
@@ -7890,7 +7890,7 @@
             ],
             "support": {
                 "issues": "https://github.com/composer/pcre/issues",
-                "source": "https://github.com/composer/pcre/tree/3.0.2"
+                "source": "https://github.com/composer/pcre/tree/3.1.0"
             },
             "funding": [
                 {
@@ -7906,7 +7906,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-11-03T20:24:16+00:00"
+            "time": "2022-11-17T09:50:14+00:00"
         },
         {
             "name": "composer/semver",
@@ -8562,16 +8562,16 @@
         },
         {
             "name": "phpstan/phpdoc-parser",
-            "version": "1.10.0",
+            "version": "1.14.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpdoc-parser.git",
-                "reference": "87fa2d526e56737a2ae8fa201a61b15efae59b8a"
+                "reference": "df1a79430e14e30cd192fe6c05842133d076e58d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/87fa2d526e56737a2ae8fa201a61b15efae59b8a",
-                "reference": "87fa2d526e56737a2ae8fa201a61b15efae59b8a",
+                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/df1a79430e14e30cd192fe6c05842133d076e58d",
+                "reference": "df1a79430e14e30cd192fe6c05842133d076e58d",
                 "shasum": ""
             },
             "require": {
@@ -8601,9 +8601,9 @@
             "description": "PHPDoc parser with support for nullable, intersection and generic types",
             "support": {
                 "issues": "https://github.com/phpstan/phpdoc-parser/issues",
-                "source": "https://github.com/phpstan/phpdoc-parser/tree/1.10.0"
+                "source": "https://github.com/phpstan/phpdoc-parser/tree/1.14.0"
             },
-            "time": "2022-10-12T19:19:18+00:00"
+            "time": "2022-11-27T19:09:16+00:00"
         },
         {
             "name": "phpstan/phpstan",
@@ -9623,22 +9623,22 @@
         },
         {
             "name": "weirdan/doctrine-psalm-plugin",
-            "version": "v2.5.0",
+            "version": "v2.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/psalm/psalm-plugin-doctrine.git",
-                "reference": "a55e7274d22795366761d35a6186a8f592f8754e"
+                "reference": "1b670dea41e903b4a812464ca470c8a14ba7f441"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/psalm/psalm-plugin-doctrine/zipball/a55e7274d22795366761d35a6186a8f592f8754e",
-                "reference": "a55e7274d22795366761d35a6186a8f592f8754e",
+                "url": "https://api.github.com/repos/psalm/psalm-plugin-doctrine/zipball/1b670dea41e903b4a812464ca470c8a14ba7f441",
+                "reference": "1b670dea41e903b4a812464ca470c8a14ba7f441",
                 "shasum": ""
             },
             "require": {
                 "composer/semver": "^1.4 || ^2.0 || ^3.0",
                 "php": "^7.2 || ^8",
-                "vimeo/psalm": "^4.28"
+                "vimeo/psalm": "^4.28|^5.0"
             },
             "conflict": {
                 "doctrine/collections": "<1.8",
@@ -9695,9 +9695,9 @@
             ],
             "support": {
                 "issues": "https://github.com/psalm/psalm-plugin-doctrine/issues",
-                "source": "https://github.com/psalm/psalm-plugin-doctrine/tree/v2.5.0"
+                "source": "https://github.com/psalm/psalm-plugin-doctrine/tree/v2.6.0"
             },
-            "time": "2022-10-12T17:35:35+00:00"
+            "time": "2022-12-01T17:37:28+00:00"
         }
     ],
     "aliases": [],
