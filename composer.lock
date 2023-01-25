@@ -7183,16 +7183,16 @@
         },
         {
             "name": "symfony/web-link",
-            "version": "v5.4.3",
+            "version": "v5.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/web-link.git",
-                "reference": "8b9b073390359549fec5f5d797f23bbe9e2997a5"
+                "reference": "c5b5d4a84249959d0df65c0e804d7f57f6873ecd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/web-link/zipball/8b9b073390359549fec5f5d797f23bbe9e2997a5",
-                "reference": "8b9b073390359549fec5f5d797f23bbe9e2997a5",
+                "url": "https://api.github.com/repos/symfony/web-link/zipball/c5b5d4a84249959d0df65c0e804d7f57f6873ecd",
+                "reference": "c5b5d4a84249959d0df65c0e804d7f57f6873ecd",
                 "shasum": ""
             },
             "require": {
@@ -7250,7 +7250,7 @@
                 "push"
             ],
             "support": {
-                "source": "https://github.com/symfony/web-link/tree/v5.4.3"
+                "source": "https://github.com/symfony/web-link/tree/v5.4.19"
             },
             "funding": [
                 {
@@ -7266,7 +7266,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-01-02T09:53:40+00:00"
+            "time": "2023-01-01T08:32:19+00:00"
         },
         {
             "name": "symfony/yaml",
