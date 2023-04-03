@@ -4547,16 +4547,16 @@
         },
         {
             "name": "symfony/notifier",
-            "version": "v5.4.21",
+            "version": "v5.4.22",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/notifier.git",
-                "reference": "783ee4c8e78a6243c0a1333ff70e8eba41719f58"
+                "reference": "5ea626671ee3875f32c887467a47697bed83e6d4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/notifier/zipball/783ee4c8e78a6243c0a1333ff70e8eba41719f58",
-                "reference": "783ee4c8e78a6243c0a1333ff70e8eba41719f58",
+                "url": "https://api.github.com/repos/symfony/notifier/zipball/5ea626671ee3875f32c887467a47697bed83e6d4",
+                "reference": "5ea626671ee3875f32c887467a47697bed83e6d4",
                 "shasum": ""
             },
             "require": {
@@ -4622,7 +4622,7 @@
                 "notifier"
             ],
             "support": {
-                "source": "https://github.com/symfony/notifier/tree/v5.4.21"
+                "source": "https://github.com/symfony/notifier/tree/v5.4.22"
             },
             "funding": [
                 {
@@ -4638,7 +4638,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-02-17T09:54:29+00:00"
+            "time": "2023-03-10T09:58:14+00:00"
         },
         {
             "name": "symfony/options-resolver",
