@@ -9356,16 +9356,16 @@
         },
         {
             "name": "symfony/web-profiler-bundle",
-            "version": "v5.4.24",
+            "version": "v5.4.26",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/web-profiler-bundle.git",
-                "reference": "42dbb751c0363d75a3697775e662d6f21f3d8b83"
+                "reference": "a08572ac2e4aea7ed85065524bb4fe3ace6c81c3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/web-profiler-bundle/zipball/42dbb751c0363d75a3697775e662d6f21f3d8b83",
-                "reference": "42dbb751c0363d75a3697775e662d6f21f3d8b83",
+                "url": "https://api.github.com/repos/symfony/web-profiler-bundle/zipball/a08572ac2e4aea7ed85065524bb4fe3ace6c81c3",
+                "reference": "a08572ac2e4aea7ed85065524bb4fe3ace6c81c3",
                 "shasum": ""
             },
             "require": {
@@ -9416,7 +9416,7 @@
             "description": "Provides a development tool that gives detailed information about the execution of any request",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/web-profiler-bundle/tree/v5.4.24"
+                "source": "https://github.com/symfony/web-profiler-bundle/tree/v5.4.26"
             },
             "funding": [
                 {
@@ -9432,7 +9432,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-05-02T16:38:36+00:00"
+            "time": "2023-07-19T19:34:05+00:00"
         },
         {
             "name": "vimeo/psalm",
