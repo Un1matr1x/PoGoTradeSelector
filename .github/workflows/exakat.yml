@@ -5,6 +5,6 @@ jobs:
     name: Scan with Exakat
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3.5.3
+    - uses: actions/checkout@v3.6.0
     - name: Exakat
       uses: docker://exakat/exakat-ga
